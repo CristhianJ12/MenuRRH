@@ -3,7 +3,6 @@ package com.example.gestion_rrhh
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.grid.GridCells
 import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
@@ -36,7 +35,7 @@ fun MenuRecursosHumanos() {
         "Beneficios",
         "Desempeño por Empleado",
         "Control de Asistencias",
-        "Tareas Personal"
+        "Tareas"
     )
 
     Column(

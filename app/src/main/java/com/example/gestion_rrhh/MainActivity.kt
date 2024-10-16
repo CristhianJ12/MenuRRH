@@ -36,7 +36,7 @@ fun MenuRecursosHumanos() {
         "Beneficios",
         "Desempeño por Empleado",
         "Control de Asistencias",
-        "Tareas"
+        "Tareas Personal"
     )
 
     Column(

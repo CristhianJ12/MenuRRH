@@ -187,7 +187,7 @@ fun BeneficiosScreen() {
     }
 }
 
-@Composable
+@Composable //1
 fun DesempenoScreen() {
     val nombreEmpleado = remember { mutableStateOf("") }
     val desempeno = remember { mutableStateOf("") }
